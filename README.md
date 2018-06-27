@@ -1,6 +1,6 @@
 # LuckyMVC
 
-Lightweight MVC Platform for PHP.
+Lightweight MVC Platform written in PHP.
 
 **Instructions**
 
